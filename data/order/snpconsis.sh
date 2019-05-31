@@ -1,0 +1,1 @@
+/ifs2/S2PH/shiquan/local/bin/snpconsis -b /ifs2/S2PH/huangzhiwei/workitems/proton/huangzhiwei/pid_config/target.bed -r /ifs2/S2PH/shiquan/databases/YH/snps/YHCell.4col.filter.clean.snps -m /ifs2/S2PH/huangzhibo/workitems/Tmap-TVC/YH-tvc/out/out.snps --uncovmut /ifs2/S2PH/huangzhibo/workitems/Tmap-TVC/YH-tvc/depthQC/report/uncovmut.txt
