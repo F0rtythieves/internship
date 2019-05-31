@@ -4,12 +4,12 @@
 [![License](http://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/F0rtythieves/internship)
 [![Language](https://img.shields.io/pypi/pyversions/pyspark.svg)](https://www.python.org/)
 # Description
-get_fastq_cg version 0.1 
-Author: lucaswong 
-Update: 2019-05-31  
-Note  : transform fastq data to cg% (txt)
+* get_fastq_cg version 0.1 
+* Author: lucaswong 
+* Update: 2019-05-31  
+* Note  : transform fastq data to cg% (txt)
 # Usage
-Usage : python  get_fastq_cg.py \<options...\>  
--i, --infile      	<File>  	Input fastq files. 
--o, --outfile     	<File>  	Output Excel file.
--h, --help        	        	Print this help.
+* Usage : python  get_fastq_cg.py \<options...\>  
+* -i, --infile      	<File>  	Input fastq files. 
+* -o, --outfile     	<File>  	Output Excel file.
+* -h, --help        	        	Print this help.
